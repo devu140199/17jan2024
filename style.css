@@ -11,6 +11,7 @@ body{
     height: 600px;
     margin: auto;
     position: relative;
+    margin-top: 50px;
 }
 .common{
     width: 300px;
