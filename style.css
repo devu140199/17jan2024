@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(188, 214, 18);
+}
+.b1{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+}
+.common{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+.blue{
+    background: blue;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    bottom: 0px;
+    right: 0px;
+}
+.yellow{
+    background: yellow;
+    border-top-left-radius: 300px;
+    border-bottom-right-radius: 300px;
+    top: 0px;
+    right: 0px;
+}
+.green{
+    background: green;
+    border-top-left-radius: 300px;
+    border-bottom-right-radius: 300px;
+    bottom: 0px;
+    left: 0px;
+}
+.lavender{
+    background: pink;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    top: 0px;
+    left: 0px;
+}
